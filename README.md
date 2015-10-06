@@ -49,7 +49,7 @@ You can use the helper `rrssb_tag` to generate and customize your social share b
 
 ```ruby
 rrssb_tag(url: 'http://my_url.com', buttons: %w{facebook twitter google_plus})
-# => Generate 3 responsive social share button for facebook, twitter and google+ in this order
+# => Generate 3 responsive social share buttons for facebook, twitter and google+ in this order
 ```
 
 For more information, see the dummy rails application available in `/test`.
